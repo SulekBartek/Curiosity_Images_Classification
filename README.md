@@ -4,7 +4,8 @@
 # "Curiosity" Mars Rover Images Classification
 
 ----------
-<img src='images/rover1.jpg' width=500 height=200>
+<img src='images/rover1.jpg' width=600 height=400>
+
 [Mars Curiosity Rover](https://mars.nasa.gov/msl/home/)
 ----------
 
@@ -29,8 +30,8 @@ Required directory stucture:
         ├── 0003ML0000000120100032E01_DRCL
         └── ...
 
-## CATEGORIES
-<img src='images/labels.png' width=600 height=250>
+## Categories
+<img src='images/labels.png' width=600 height=400>
 
 ##  Dependencies
 Main libraries used in this project:
@@ -39,6 +40,7 @@ Main libraries used in this project:
 * `numpy == 1.21.4`
 * `pandas == 1.4.4`
 * `Pillow == 9.5.0`
+
 For the rest of the dependencies take a look at requirements.txt.
 
 ## License
